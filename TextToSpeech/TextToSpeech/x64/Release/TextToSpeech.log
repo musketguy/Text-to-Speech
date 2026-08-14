@@ -1,0 +1,9 @@
+﻿  TextToSpeech.cpp
+D:\C++ VS folder\TextToSpeech\TextToSpeech.cpp(290,23): warning C4244: 'argument': conversion from 'long' to 'USHORT', possible loss of data
+  Generating code
+  1 of 803 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TextToSpeech.vcxproj -> D:\C++ VS folder\TextToSpeech\x64\Release\TextToSpeech.exe
+  D:\C++ VS folder\TextToSpeech\x64\Release\TextToSpeech.exe: message: deploying dependencies
